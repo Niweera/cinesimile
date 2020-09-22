@@ -82,6 +82,6 @@ $ git pull upstream master
 
 (Do this before you are creating another pull request. By doing this your fork will be up-to-date with the main repository.)
 
-### Additiona Additional information
+### Additional Additional information
 
 11. Spread around the word, let your friends also get a Hacktoberfest T-Shirt 🤣.
