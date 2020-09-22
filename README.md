@@ -11,8 +11,8 @@
 [![GitHub contributors](https://img.shields.io/github/contributors/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/graphs/contributors/)
 [![GitHub issues](https://img.shields.io/github/issues/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/issues/)
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/issues?q=is%3Aissue+is%3Aclosed)
-[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/pull/)
-[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/pull/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/pulls/)
+[![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/pulls/)
 <br><br>
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
