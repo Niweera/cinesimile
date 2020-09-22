@@ -14,11 +14,11 @@
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/pulls/)
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/pulls/)
 <br><br>
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://simile.znbt.ml/)
+[![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://simile.znbt.ml/)
+[![forthebadge](https://forthebadge.com/images/badges/you-didnt-ask-for-this.svg)](https://simile.znbt.ml/)
+[![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://simile.znbt.ml/)
+[![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://simile.znbt.ml/)
 
 # CineSimile
 
