@@ -32,7 +32,7 @@ Hacktoberfest 2020 is around the corner and we very much welcome your wonderful 
 
 # How to contribute
 
-Thank you for showing interest in CineSimile, an open sourced platform to find similar movies. Please follow the steps and you'll end up being a open source contributor 😎. Please read the [CONTRIBUTING](https://github.com/Niweera/cinesimile/blob/master/CONTRIBUTING.md) document before starting to contribute to this project.
+Thank you for showing interest in CineSimile, an open sourced platform to find similar movies. Please follow the steps and you'll soon end up being an open source contributor 😎. Please read the [CONTRIBUTING](https://github.com/Niweera/cinesimile/blob/master/CONTRIBUTING.md) document before starting to contribute to this project.
 
 1. [Fork](https://github.com/Niweera/cinesimile/fork) the repository.
 
@@ -42,21 +42,21 @@ Thank you for showing interest in CineSimile, an open sourced platform to find s
 $ git clone https://github.com/<username>/cinesimile.git
 ```
 
-3. Install node_modules 🤣.
+3. Install node_modules.
 
 ```bash
 $ npm install
 ```
 
-4. Start React development server.
+4. Start the React development server.
 
 ```bash
 $ npm start
 ```
 
-5. Do something amazing (FYI, pick an issue from the [issue list](https://github.com/Niweera/cinesimile/issues), and add a comment that you'll going to work on it.)
+5. Do something amazing (FYI, pick an issue from the [issue list](https://github.com/Niweera/cinesimile/issues), and add a comment stating that you're going to work on it.)
 
-6. Now commit and push the changes.
+6. Commit and push the changes.
 
 ```bash
 $ git add .
@@ -66,22 +66,20 @@ $ git commit -m "your commit message (make it meaningful and short)"
 $ git push origin master
 ```
 
-7. Now create a [pull request](https://www.youtube.com/watch?v=OHV64qh-uyY).
+7. Finally, create a [pull request](https://www.youtube.com/watch?v=OHV64qh-uyY).
 
-8. That's it.
+8. That's it! Hopefully you'll get some Hacktoberfest swag 😇.
 
-9. Hopefully you'll get a Hacktoberfest swag 😇.
+### Additional Information
 
-### Additional information
-
-10. If you are creating a new pull request please update your fork.
+9. If you are creating a new pull request please update your fork.
 
 ```bash
 $ git pull upstream master
 ```
 
-(Do this before you are creating another pull request. By doing this your fork will be up-to-date with the main repository.)
+Do this before creating another pull request. By doing this, your fork will be up-to-date with the main repository.
 
 ### Additional Additional information
 
-11. Spread around the word, let your friends also get a Hacktoberfest T-Shirt 🤣.
+10. Spread the word, help your friends to get a Hacktoberfest T-Shirt too! 😁
