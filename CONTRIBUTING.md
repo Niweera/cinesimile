@@ -30,3 +30,10 @@ This is not exactly necessary. If you just know how to build a component in HTML
  # I am stuck, what should I do 🤷‍♂️?
  
  Fret not my dear friends. We are here to help you. If you have any issue with the development or you need some advice, please feel free to open an issue and we will attend to it in no time. 😇
+ 
+ 
+ # Additional resources
+ 
+ - [How to Contribute to Open Source](http://opensource.guide/how-to-contribute/)
+ - [FIRST TIMERS ONLY](https://www.firsttimersonly.com/)
+ - [Useful Git Commands](https://github.com/joshnh/Git-Commands/blob/master/README.md)
