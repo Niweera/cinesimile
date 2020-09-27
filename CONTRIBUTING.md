@@ -27,6 +27,40 @@ This is not exactly necessary. If you just know how to build a component in HTML
  
  #### That's it. Now go do something wonderful and send us a pull request.
  
+ ## Additional information on developing ReactJS components
+ 
+ We are using the following component structure.
+ 
+ ```
+project_root
+│   README.md
+│   CODE_OF_CONDUCT.md
+|   CONTRIBUTING.md
+|   LICENSE
+|   package.json
+│
+└───src
+│   │   App.js
+│   │   routes.js
+|   |   index.js
+│   │
+│   └───actions
+|   └───helpers
+|   └───components
+|        |
+|        └───Header
+|        |     | index.js
+|        |
+|        └───Home
+|              | index.js 
+│   
+└───node_modules/
+|
+└───public/
+```
+
+When contributing, you can create new React components inside `/src/components/<COMPONENT_NAME>/index.js`. It supports the core architecture of React and the modularity of our application.
+ 
  # I am stuck, what should I do 🤷‍♂️?
  
  Fret not my dear friends. We are here to help you. If you have any issue with the development or you need some advice, please feel free to open an issue and we will attend to it in no time. 😇
