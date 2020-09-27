@@ -32,7 +32,7 @@ Hacktoberfest 2020 is around the corner and we very much welcome your wonderful 
 
 # How to contribute
 
-Thank you for showing interest in CineSimile, an open sourced platform to find similar movies. Please follow the steps and you'll end up being a open source contributor 😎.
+Thank you for showing interest in CineSimile, an open sourced platform to find similar movies. Please follow the steps and you'll end up being a open source contributor 😎. Please read the [CONTRIBUTING](https://github.com/Niweera/cinesimile/blob/master/CONTRIBUTING.md) document before starting to contribute to this project.
 
 1. [Fork](https://github.com/Niweera/cinesimile/fork) the repository.
 
