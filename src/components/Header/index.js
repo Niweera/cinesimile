@@ -15,7 +15,7 @@ import {
 } from "@carbon/icons-react";
 
 const MainHeader = () => (
-  <Header aria-label="CineSimile">
+  <Header aria-label="CineSimile" className="header">
     <SkipToContent />
     <HeaderName href="/" prefix="">
       CineSimile
