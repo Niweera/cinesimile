@@ -1,0 +1,12 @@
+// Style for the sticky footer
+@import "@carbon/type/scss/styles";
+@import "@carbon/colors/scss/colors";
+.footer {
+  background-color: $black-100;
+  color: $cool-gray-50;
+  padding: 0.9375rem;
+  flex: 0 0 auto;
+  &__heading {
+    @include carbon--type-style("productive-heading-01");
+  }
+}
