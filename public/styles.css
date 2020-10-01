@@ -1,20 +1,47 @@
 /*     Home - Introduction Component      */
 
 .intro-comp{
-    background-color: #E8E8E8;
     align-content: center;
     padding: 40px 80px; 
 } 
-
+.search-film input{
+ border-radius: 5px;
+ background-color: none;
+ outline: none;
+ border: none;
+ padding:10px;
+ width: 300px;
+}
+.intro-comp img{
+    height: 500px;
+    width: 100%;
+}
+.intro-comp{
+    position: relative;
+    justify-content: center;
+    display: flex;
+}
+.top-layouts{
+    text-align: center;
+    position: absolute;
+    top:100px;
+    font-weight: bold;
+    width: 600px;
+    color:rgb(249, 251, 255);
+}
 .intro-comp h1{
     font-weight: bolder;
 }
 
 .intro-comp p{
     margin: 10px;
+    font-weight: bolder;
 }
 
 .intro-comp Button{
     border-radius: 5px;
+    padding: 10px;
     margin: 10px;
+    font-weight: 700;
+    letter-spacing: 1.2px;
 }
