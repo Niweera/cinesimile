@@ -17,7 +17,7 @@ import {
 const MainHeader = () => (
   <Header aria-label="CineSimile" className="header">
     <SkipToContent />
-    <HeaderName href="/" prefix="">
+    <HeaderName href="/" prefix="" className="brand">
       CineSimile
     </HeaderName>
     <HeaderNavigation aria-label="CineSimile">
