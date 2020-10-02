@@ -5,7 +5,6 @@ import {
     SwitcherItem,
     SwitcherDivider,
     HeaderPanel,
-    HeaderMenuItem,
   } from "carbon-components-react";
 const Sidenavbar = () => {
     return (

@@ -1,4 +1,4 @@
-import React, { Component, useLayoutEffect } from 'react';
+import React, { Component} from 'react';
 import { navbarItems} from "./navbarItems";
 import './navbar.css';
 import Sidenavbar from'./sidenavbar';
