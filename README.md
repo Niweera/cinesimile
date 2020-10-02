@@ -83,8 +83,9 @@ Do this before creating another pull request. By doing this, your fork will be u
 
 Spread the word, help your friends to get a Hacktoberfest T-Shirt too! 😁
 <br>
-Good luck with your open source journey happy hacking.
+Good luck with your open source journey.
 
+Happy Hacking! 😁
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Niweera/cinesimile/blob/master/LICENSE) for more information.
