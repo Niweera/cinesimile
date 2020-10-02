@@ -28,6 +28,14 @@
   color: #61dafb;
 }
 
+.intro-comp {
+  box-shadow: 0 10px 29px 0 rgba(68, 88, 144, 0.4);
+}
+
+.search-box {
+  margin-top: 300px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
