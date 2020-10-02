@@ -43,6 +43,10 @@ a:hover{
    color:whitesmoke !important;
    border:none;
 }
+.bx--header__action{
+    border:none;
+    background-color :#282828 !important;
+}
 
 @media only screen and (max-width: 900px) {
     .bx--header__action{
@@ -52,8 +56,11 @@ a:hover{
     .nav-menu{
         display:none;
     }
+    .focus-in{
+        background-color :black !important;
+
+    }
     .focus-out{
-        border:none;
         background-color :#282828 !important;
     }
     
