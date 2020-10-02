@@ -5,11 +5,11 @@ export const navbarItems=[
         url:"#",
     },
     {
-        title:"Link1",
+        title:"News",
         url:"#",
     },
     {
-        title:"Link2",
+        title:"Contact Us",
         url:"##",
     },
 ]
