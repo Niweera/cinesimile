@@ -101,11 +101,11 @@ Do this before creating another pull request. By doing this, your fork will be u
 
 3.  Running Specific Test in Headless Mode
 
-        ```bash
-         // replace <test_name> with the test file name
+    ```bash
+    // replace <test_name> with the test file name
 
-         npm run cy:run --spec "cypress/integration/<test_name>.spec.js"
-        ```
+    npm run cy:run --spec "cypress/integration/<test_name>.spec.js"
+    ```
 
 <hr>
 
