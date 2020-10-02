@@ -4,6 +4,7 @@ import Home from "./components/Home";
 // import MainHeader from "./components/Header";
 import NavBar from "./components/Navbar/index";
 import { Content } from "carbon-components-react";
+import Footer from "./components/Footer";
 
 const Routes = () => {
   return (
@@ -18,6 +19,7 @@ const Routes = () => {
           </Switch>
         </Router>
       </Content>
+      <Footer />
     </>
   );
 };

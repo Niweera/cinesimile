@@ -1,1 +1,15 @@
 @import "./components/Header/index.scss";
+@import "./components/SearchBox/index.scss";
+
+html,
+body {
+  height: 100%;
+}
+#root {
+  min-height: 100%;
+  display: flex;
+  flex-direction: column;
+}
+.content {
+  flex: 1 0 auto;
+}

@@ -20,17 +20,20 @@
 [![forthebadge](https://forthebadge.com/images/badges/winter-is-coming.svg)](https://simile.znbt.ml/)
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://simile.znbt.ml/)
 
-# CineSimile
+<h1 align="center"> CineSimile </h1>
+<p align="center"> For all your movie recommendation needs! </p>
 
-CineSimile is a platform where you can find similar movies for a given movie. Currently, we are in the phase of finding similarity between the movies. So keep in touch, and we'll let you know.
-
-# Hacktoberfest Notice
+## Hacktoberfest Notice
 
 ![image](./hf.svg)
 
-Hacktoberfest 2020 is around the corner and we very much welcome your wonderful contribution and you can also win a Hacktoberfest T-Shirt as a token of appreciation. Visit https://hacktoberfest.digitalocean.com/ and check it out how to contribute to open source and be an open source hero 😁.
+Hacktoberfest 2020 is finally here and we very much welcome your wonderful contributions! You can win a Hacktoberfest T-Shirt as a token of appreciation. Visit https://hacktoberfest.digitalocean.com/ and check out how to contribute to open source and be an open source hero! 😁.
 
-# How to contribute
+## About The Project
+
+CineSimile is a platform where you can find similar movies for a given movie. Currently, we are in the phase of finding similarity between the movies. So keep in touch, and we'll let you know.
+
+## Getting Started
 
 Thank you for showing interest in CineSimile, an open sourced platform to find similar movies. Please follow the steps and you'll soon end up being an open source contributor 😎. Please read the [CONTRIBUTING](https://github.com/Niweera/cinesimile/blob/master/CONTRIBUTING.md) document before starting to contribute to this project.
 
@@ -68,9 +71,7 @@ $ git push origin master
 
 7. Finally, create a [pull request](https://www.youtube.com/watch?v=OHV64qh-uyY).
 
-8. That's it! Hopefully you'll get some Hacktoberfest swag 😇.
-
-### Additional Information
+## # Additional Information
 
 9. If you are creating a new pull request please update your fork.
 
@@ -80,6 +81,10 @@ $ git pull upstream master
 
 Do this before creating another pull request. By doing this, your fork will be up-to-date with the main repository.
 
-### Additional Additional information
+Spread the word, help your friends to get a Hacktoberfest T-Shirt too! 😁
+<br>
+Good luck with your open source journey.
 
-10. Spread the word, help your friends to get a Hacktoberfest T-Shirt too! 😁
+## License
+
+Distributed under the MIT License. See [LICENSE](https://github.com/Niweera/cinesimile/blob/master/LICENSE) for more information.
