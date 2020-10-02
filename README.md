@@ -79,11 +79,13 @@ $ git push origin master
 $ git pull upstream master
 ```
 
-## Running E2E Tests
+Do this before creating another pull request. By doing this, your fork will be up-to-date with the main repository.
+
+## Running E2E Tests 🧪
 
 1.  Running Tests Manually Using Cypress Test Runner
 
-    ```npm
+    ```bash
     npm run cy:run_in_dev
     ```
 
@@ -91,23 +93,28 @@ $ git pull upstream master
 
 2.  Running All Tests in Headless Mode
 
-    ```npm
+    ```bash
      npm run cy:run_in_ci
     ```
 
+    Note: If the app server is already running, run: `npm run cy:run`
+
 3.  Running Specific Test in Headless Mode
 
-    ```npm
-     npm run cy:run --spec "cypress/integration/test_name.spec.js"
-    ```
+        ```bash
+         // replace <test_name> with the test file name
 
-Do this before creating another pull request. By doing this, your fork will be up-to-date with the main repository.
+         npm run cy:run --spec "cypress/integration/<test_name>.spec.js"
+        ```
+
+<hr>
 
 Spread the word, help your friends to get a Hacktoberfest T-Shirt too! 😁
 <br>
 Good luck with your open source journey.
 
 Happy Hacking! 😁
+
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Niweera/cinesimile/blob/master/LICENSE) for more information.
