@@ -48,7 +48,7 @@ $ git clone https://github.com/<username>/cinesimile.git
 3. Install node_modules.
 
 ```bash
-$ npm install
+$ npm ci
 ```
 
 4. Start the React development server.
