@@ -1,5 +1,6 @@
 import React from "react";
 import { Button } from 'carbon-components-react';
+import "../../App.css"
 
 const IntroComp = () => {
   return (
@@ -12,5 +13,6 @@ const IntroComp = () => {
     </div>
   );
 };
+
 
 export default IntroComp;

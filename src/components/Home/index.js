@@ -1,6 +1,7 @@
 import React from "react";
 import SearchBox from "../SearchBox";
 import IntroComp from "./introduction_component";
+import "../../App.css"
 
 const Home = () => {
   return (
@@ -8,7 +9,7 @@ const Home = () => {
       <div className="bx--row landing-page__banner">
         <div className="bx--offset-lg-1 bx--col-lg-14">
           <IntroComp/>
-          <SearchBox/>
+          <SearchBox className="search-box" />
         </div>
       </div>
     </div>
