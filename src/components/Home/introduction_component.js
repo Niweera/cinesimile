@@ -4,7 +4,7 @@ import { Button } from 'carbon-components-react';
 const IntroComp = () => {
   return (
     <div className="intro-comp">
-      <h1 className="landing-page__heading">Hello, world!</h1>
+      <h1 className="landing-page__heading">Hello, Movie Lovers!</h1>
       <p>Welcome to CineSmile. We are platform to find similar movies easily. 
         We use sophisticated machine learning models to find similarities between movies and provide you with close matches.
       </p>
