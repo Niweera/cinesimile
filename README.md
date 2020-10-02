@@ -83,7 +83,7 @@ Do this before creating another pull request. By doing this, your fork will be u
 
 Spread the word, help your friends to get a Hacktoberfest T-Shirt too! 😁
 <br>
-Good luck with your open source journey.
+Good luck with your open source journey happy hacking.
 
 ## License
 
