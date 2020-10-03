@@ -23,12 +23,13 @@
 
 <h1 align="center"> CineSimile </h1>
 <p align="center"> For all your movie recommendation needs! </p>
+<br>
 
-## Hacktoberfest Notice
+<h1 align="center"> Hacktoberfest Notice </h1>
 
 ![image](./hf.svg)
 
-Hacktoberfest 2020 is finally here and we very much welcome your wonderful contributions! You can win a Hacktoberfest T-Shirt as a token of appreciation. Visit https://hacktoberfest.digitalocean.com/ and check out how to contribute to open source and be an open source hero! 😁.
+Hacktoberfest 2020 is finally here and we very much welcome your wonderful contributions! You can win a Hacktoberfest T-Shirt as a token of appreciation. Visit https://hacktoberfest.digitalocean.com/ and check out how to contribute to open source and be an open source hero! 😁
 
 ## About The Project
 
@@ -42,43 +43,43 @@ Thank you for showing interest in CineSimile, an open sourced platform to find s
 
 2. Clone the repository to your machine.
 
-```bash
-$ git clone https://github.com/<username>/cinesimile.git
-```
+   ```bash
+   $ git clone https://github.com/<username>/cinesimile.git
+   ```
 
 3. Install node_modules.
 
-```bash
-$ npm ci
-```
+   ```bash
+   $ npm ci
+   ```
 
 4. Start the React development server.
 
-```bash
-$ npm start
-```
+   ```bash
+   $ npm start
+   ```
 
 5. Do something amazing (FYI, pick an issue from the [issue list](https://github.com/Niweera/cinesimile/issues), and add a comment stating that you're going to work on it.)
 
 6. Commit and push the changes.
 
-```bash
-$ git add .
+   ```bash
+   $ git add .
 
-$ git commit -m "your commit message (make it meaningful and short)"
+   $ git commit -m "your commit message (make it meaningful and short)"
 
-$ git push origin master
-```
+   $ git push origin master
+   ```
 
 7. Finally, create a [pull request](https://www.youtube.com/watch?v=OHV64qh-uyY).
 
-## # Additional Information
+## Additional Information
 
 9. If you are creating a new pull request please update your fork.
 
-```bash
-$ git pull upstream master
-```
+   ```bash
+   $ git pull upstream master
+   ```
 
 Do this before creating another pull request. By doing this, your fork will be up-to-date with the main repository.
 
