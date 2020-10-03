@@ -13,6 +13,7 @@
 [![GitHub issues-closed](https://img.shields.io/github/issues-closed/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/issues?q=is%3Aissue+is%3Aclosed)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/pulls/)
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/Niweera/cinesimile.svg)](https://GitHub.com/Niweera/cinesimile/pulls/)
+[![Open Source Helpers](https://www.codetriage.com/niweera/cinesimile/badges/users.svg)](https://www.codetriage.com/niweera/cinesimile)
 <br><br>
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://simile.znbt.ml/)
 [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://simile.znbt.ml/)
