@@ -16,4 +16,9 @@ main {
 
 .intro-comp {
   box-shadow: "10px 20px 30px blue";
+  border-radius: 4px;
+
+  .btn {
+    padding: 12px;
+  }
 }
