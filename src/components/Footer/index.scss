@@ -6,6 +6,7 @@
   color: $cool-gray-50;
   padding: 0.907rem;
   flex: 0 0 auto;
+  text-align: center;
   &__heading {
     @include carbon--type-style("productive-heading-01");
   }
