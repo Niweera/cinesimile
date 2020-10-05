@@ -35,6 +35,12 @@
 .search-box {
   margin-top: 300px;
 }
+h1 {
+  text-transform: capitalize;
+}
+Button {
+  text-align: center;
+}
 
 @keyframes App-logo-spin {
   from {

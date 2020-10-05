@@ -6,7 +6,7 @@ import {
 } from '../Tile';
 
 export default {
-  title: 'Tile',
+  title: 'Title',
   decorators: [withKnobs],
 }
 
