@@ -73,6 +73,32 @@ Thank you for showing interest in CineSimile, an open sourced platform to find s
 
 7. Finally, create a [pull request](https://www.youtube.com/watch?v=OHV64qh-uyY).
 
+## 🐳 Run through Docker (Optional)
+
+1. Execute the command below if you have the Docker CLI in your machine or server:
+    ```sh
+    docker-compose up
+    ```
+
+2. Open in your browser.
+    
+    ```sh
+    - localhost 
+    OR 
+    - 0.0.0.0
+    ```
+
+3. Access the portainer to see the logs (optional)
+    ```sh
+    - localhost:9000
+    OR 
+    - 0.0.0.0:9000
+    ```
+    Do the follow steps to use the Portainer:
+    1. You'll need to create a password for local admin account.
+    2. Choose the option: "**Docker** *manage the local Docker environment*".
+    3. Done, you're now able to manage the containers
+    
 ## Additional Information
 
 9. If you are creating a new pull request please update your fork.
