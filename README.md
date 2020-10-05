@@ -22,7 +22,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://simile.znbt.ml/)
 
 <h1 align="center"> CineSimile </h1>
-<p align="center"> For All Your Movie Recommendation needs! </p>
+<p align="center"> For All Your Movie Recommendation Needs! </p>
 <br>
 
 <h1 align="center"> Hacktoberfest Notice </h1>
