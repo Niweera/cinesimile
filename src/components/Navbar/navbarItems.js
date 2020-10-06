@@ -10,6 +10,6 @@ export const navbarItems=[
     },
     {
         title:"Contact Us",
-        url:"##",
+        url:"#",
     },
 ]
