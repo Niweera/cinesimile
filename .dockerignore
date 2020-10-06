@@ -1,0 +1,10 @@
+node_modules
+*.md
+.gitignore
+LICENSE
+*.yaml
+*.yml 
+.github
+Dockerfile
+cypress*
+bash.exe.stackdump

@@ -9,7 +9,7 @@ const IntroComp = () => {
       <p>Welcome to CineSmile. We are platform to find similar movies easily. 
         We use sophisticated machine learning models to find similarities between movies and provide you with close matches.
       </p>
-      <Button>Learn more</Button>
+      <Button className="btn">Learn more</Button>
     </div>
   );
 };
