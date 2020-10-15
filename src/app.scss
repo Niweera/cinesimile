@@ -22,3 +22,11 @@ main {
     padding: 12px;
   }
 }
+
+.search-results {
+  &__title {
+    text-align: center;
+    margin-top: 32px;
+    font-weight: 900;
+  }
+}
