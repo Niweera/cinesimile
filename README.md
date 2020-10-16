@@ -35,6 +35,18 @@ Hacktoberfest 2020 is finally here and we very much welcome your wonderful contr
 
 CineSimile is a platform where you can find similar movies for a given movie. Currently, we are in the phase of finding similarity between the movies. So keep in touch, and we'll let you know.
 
+### Machine Learning
+
+Cinesmile is powered by machine learning to enhance the search capabilities and find a closer fit to your movie of choice. Similar technology is used by Netflix and Youtube to tailor recommendations to your personal choices.
+
+### Technology Used
+
+- Carbon Design System - https://www.carbondesignsystem.com/all-about-carbon/what-is-carbon
+
+- React - https://reactjs.org/
+
+- Docker - https://www.docker.com/why-docker
+
 ## Getting Started
 
 Thank you for showing interest in CineSimile, an open sourced platform to find similar movies for a given movie. Please follow the steps and you'll soon end up being an open source contributor and become a part of the Open Source Community😎. Please read the [CONTRIBUTING](https://github.com/Niweera/cinesimile/blob/master/CONTRIBUTING.md) document before starting to contribute to this project and learn about the intricacies of Contributing.
@@ -75,29 +87,34 @@ Thank you for showing interest in CineSimile, an open sourced platform to find s
 
 ## 🐳 Run through Docker (Optional)
 
+If interested in learning more about docker. [Docker Introduction](https://docs.docker.com/get-started/)
+
 1. Execute the command below if you have the Docker CLI in your machine or server:
-    ```sh
-    docker-compose up
-    ```
+
+   ```sh
+   docker-compose up
+   ```
 
 2. Open in your browser.
 
-    ```sh
-    - localhost
-    OR
-    - 0.0.0.0
-    ```
+
+   ```sh
+   - localhost
+   OR
+   - 0.0.0.0
+   ```
 
 3. Access the portainer to see the logs (optional)
-    ```sh
-    - localhost:9000
-    OR
-    - 0.0.0.0:9000
-    ```
-    Do the follow steps to use the Portainer:
-    1. You'll need to create a password for local admin account.
-    2. Choose the option: "**Docker** *manage the local Docker environment*".
-    3. Done, you're now able to manage the containers
+   ```sh
+   - localhost:9000
+   OR
+   - 0.0.0.0:9000
+   ```
+   Do the follow steps to use the Portainer:
+   1. You'll need to create a password for local admin account.
+   2. Choose the option: "**Docker** _manage the local Docker environment_".
+   3. Done, you're now able to manage the containers
+
 
 ## Additional Information
 
