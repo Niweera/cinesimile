@@ -2,6 +2,7 @@ import { Search } from "carbon-components-react";
 import React, { useState } from "react";
 import { useDebouncedCallback } from "use-debounce";
 import mockMovies from "../../data/mockmovies.json";
+import SearchResultsTitle from "../SearchResultsTitle";
 
 const SearchBox = () => {
   const [query, setQuery] = useState([]);
@@ -25,9 +26,9 @@ const SearchBox = () => {
         id="search-1"
         placeHolderText="Search a movie"
       />
-      {query.map((movie) => (
-        <div key={movie.id}>
-          <h1>{movie.title}</h1>
+      {query.map(({ id, title }) => (
+        <div key={id}>
+          <SearchResultsTitle title={title} />
         </div>
       ))}
     </div>
