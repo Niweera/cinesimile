@@ -1,6 +1,6 @@
+[![Hacktoberfest](https://badgen.net/badge/hacktoberfest/friendly/pink)](CONTRIBUTING.md)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 [![MIT Licence](https://badges.frapsoft.com/os/mit/mit.png?v=103)](https://opensource.org/licenses/mit-license.php)
-[![Hacktoberfest](https://badgen.net/badge/hacktoberfest/friendly/pink)](CONTRIBUTING.md)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
 [![Twitter Account](https://badgen.net/twitter/follow/Niweera?label=twitter)](https://twitter.com/Niweera)
 [![Actions Status](https://github.com/Niweera/cinesimile/workflows/CI%2FCD/badge.svg)](https://github.com/Niweera/cinesimile/actions)
@@ -22,14 +22,14 @@
 [![forthebadge](https://forthebadge.com/images/badges/check-it-out.svg)](https://simile.znbt.ml/)
 
 <h1 align="center"> CineSimile </h1>
-<p align="center"> For All Your Movie Recommendation Needs! </p>
-<br>
+<p align="center"> For All Your Movie Recommendation Needs and the Movie Lovers Greed!  </p>
+<br/>
 
-<h1 align="center"> Hacktoberfest Notice </h1>
+<h1 align="center"> Hacktoberfest 2020 Notice </h1>
 
 ![image](./hf.svg)
 
-Hacktoberfest 2020 is finally here and we very much welcome your wonderful contributions! You can win a Hacktoberfest T-Shirt as a token of appreciation. Visit https://hacktoberfest.digitalocean.com/ and check out how to contribute to open source and be an open source hero! 😁
+Hacktoberfest 2020 is finally here and we very much welcome your wonderful contributions! You can earn a Hacktoberfest T-Shirt as a reminder of your efforts and as a token of appreciation. Visit <a href = "https://hacktoberfest.digitalocean.com/">Hacktoberfest<a/> and check out how to contribute to open source and become an open source hero! 😁
 
 ## About The Project
 
@@ -49,11 +49,11 @@ Cinesmile is powered by machine learning to enhance the search capabilities and 
 
 ## Getting Started
 
-Thank you for showing interest in CineSimile, an open sourced platform to find similar movies. Please follow the steps and you'll soon end up being an open source contributor 😎. Please read the [CONTRIBUTING](https://github.com/Niweera/cinesimile/blob/master/CONTRIBUTING.md) document before starting to contribute to this project.
+Thank you for showing interest in CineSimile, an open sourced platform to find similar movies for a given movie. Please follow the steps and you'll soon end up being an open source contributor and become a part of the Open Source Community😎. Please read the [CONTRIBUTING](https://github.com/Niweera/cinesimile/blob/master/CONTRIBUTING.md) document before starting to contribute to this project and learn about the intricacies of Contributing.
 
 1. [Fork](https://github.com/Niweera/cinesimile/fork) the repository.
 
-2. Clone the repository to your machine.
+2. Clone the repository to your Local machine.
 
    ```bash
    $ git clone https://github.com/<username>/cinesimile.git
@@ -71,7 +71,7 @@ Thank you for showing interest in CineSimile, an open sourced platform to find s
    $ npm start
    ```
 
-5. Do something amazing (FYI, pick an issue from the [issue list](https://github.com/Niweera/cinesimile/issues), and add a comment stating that you're going to work on it.)
+5. Do something amazing and Creative(FYI, pick an issue from the [issue list](https://github.com/Niweera/cinesimile/issues), and add a comment stating that you're going to work on it.)
 
 6. Commit and push the changes.
 
@@ -97,6 +97,7 @@ If interested in learning more about docker. [Docker Introduction](https://docs.
 
 2. Open in your browser.
 
+
    ```sh
    - localhost
    OR
@@ -113,6 +114,7 @@ If interested in learning more about docker. [Docker Introduction](https://docs.
    1. You'll need to create a password for local admin account.
    2. Choose the option: "**Docker** _manage the local Docker environment_".
    3. Done, you're now able to manage the containers
+
 
 ## Additional Information
 
@@ -152,7 +154,7 @@ Do this before creating another pull request. By doing this, your fork will be u
 
 <hr>
 
-Spread the word, help your friends to get a Hacktoberfest T-Shirt too! 😁
+Spread the word, help your friends to get a Hacktoberfest T-Shirt too and being a of the amazing Open Source Community ! 😁
 <br>
 Good luck with your open source journey.
 
