@@ -28,5 +28,10 @@
     "id": 5,
     "title": "Avengers",
     "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate tenetur perferendis quos, libero atque ullam asperiores minima reprehenderit sequi exercitationem necessitatibus nulla omnis quia quae! Libero sapiente cupiditate consectetur corporis. "
+  },
+  {
+    "id": 6,
+    "title": "Asterix and Obelisk",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptate tenetur perferendis quos, libero atque ullam asperiores minima reprehenderit sequi exercitationem necessitatibus nulla omnis quia quae! Libero sapiente cupiditate consectetur corporis. "
   }
 ]

@@ -1,26 +1,12 @@
 import React from "react";
-import "./index.scss";
 
-import {
-  Tile
-} from '../Tile';
-
-export default {
-  title: 'Title',
-  decorators: [withKnobs],
-}
-
-export const Default = () => {
-  const regularProps = props.regular();
-  return <Tile {...regularProps}>Movie one</Tile>;
+export const MovieCard = ({ title, description }) => {
+  return (
+    <div className="search-results__card">
+      <img src="https://dummyimage.com/320x170/bfbfbf/fff" />
+      <h3>{title}</h3>
+      <p>{description}</p>
+      <button>Go somewhere</button>
+    </div>
+  );
 };
-
-Default.parameters = {
-  info: {
-    text: `
-        Movie title
-      `,
-  },
-};
-
-
