@@ -32,7 +32,7 @@ const SearchBox = () => {
       <div>
         {results.map((x) => {
           return (
-            <h4 id={x.id} onClick={() => setSelectedMovie(x)}>
+            <h4 key={x.id} id={x.id} onClick={() => setSelectedMovie(x)}>
               {x.title}
             </h4>
           );
@@ -46,6 +46,7 @@ const SearchBox = () => {
           results.map((x) => {
             return (
               <MovieCard
+                key={x.id}
                 style={{ width: "20%" }}
                 title={x.title}
                 description={x.description}
