@@ -5,6 +5,7 @@ import Home from "./components/Home";
 import NavBar from "./components/Navbar/index";
 import { Content } from "carbon-components-react";
 import Footer from "./components/Footer";
+import ContactUs from "./components/ContactUs/contact_us";
 
 const Routes = () => {
   return (
@@ -15,7 +16,8 @@ const Routes = () => {
         <Router>
           <Switch>
             <Route exact path={"/"} render={(props) => <Home {...props} />} />
-            <Route exact path={"*"} component={Home} />
+            <Route exact path={"/home"} component={Home} />
+            <Route exact path={"/contact"} component={ContactUs} />
           </Switch>
         </Router>
       </Content>
