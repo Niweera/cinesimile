@@ -23,10 +23,20 @@ main {
   }
 }
 
+.search-query {
+  text-align: center;
+  margin-top: 32px;
+  font-weight: 900;
+  margin-bottom: 32px;
+}
 .search-results {
-  &__title {
-    text-align: center;
-    margin-top: 32px;
-    font-weight: 900;
+  &__card {
+    width: 25%;
+    border: 1px solid gray;
+    margin: 0 8px;
+    img {
+      width: 100%;
+      margin-bottom: 16px;
+    }
   }
 }
