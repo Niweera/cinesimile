@@ -7,6 +7,9 @@ const ContactUs = () => {
     <div>
       <div>
         <h2 className="landing-page__heading">Leave us a message . . . </h2>
+        <p>We are here to help and answer any question you might have.
+          We look forward to hearing from you.
+        </p>
       </div>
    
       <div>
