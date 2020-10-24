@@ -34,9 +34,21 @@ main {
     width: 25%;
     border: 1px solid gray;
     margin: 0 8px;
-    img {
+
+    &-poster {
       width: 100%;
       margin-bottom: 16px;
+    }
+    &-title {
+      padding: 8px;
+    }
+    &-description {
+      padding: 8px;
+    }
+    &-button {
+      border: 0;
+      outline: none;
+      margin: 8px;
     }
   }
 }
