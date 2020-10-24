@@ -25,7 +25,12 @@ const SearchBox = () => {
   return (
     <div className="searchBox">
       <Search
-        onChange={(e) => debounced.callback(e.target.value, setResults)}
+        onChange={(e) => {
+          debounced.callback(e.target.value, setResults);
+          if (e.target.value === "") {
+            setSelectedMovie(null);
+          }
+        }}
         id="search-1"
         placeHolderText="Search a movie"
       />
@@ -39,7 +44,9 @@ const SearchBox = () => {
         })}
       </div>
 
-      {selectedMovie && <SearchResultsTitle title={selectedMovie.title} />}
+      {selectedMovie && results.length > 0 && (
+        <SearchResultsTitle title={selectedMovie.title} />
+      )}
 
       <div style={{ display: "flex" }}>
         {selectedMovie &&
