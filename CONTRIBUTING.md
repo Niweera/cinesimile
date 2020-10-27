@@ -11,16 +11,13 @@ CineSimile is an open source platform to find movie recommendations similar to a
 
 Contributing to CineSimile is simple. CineSimile is developed using ReactJS and IBM Carbon Design System. Following are the pre-requisites for making a contribution in the project:
 
-1. Knowledge of basic ReactJS
-   <br>
+### 1. Knowledge of basic ReactJS
    You can refer to [this link](https://reactjs.org/docs/getting-started.html).
 
-2. Components and modular architecture of a React application.
-   <br>
+### 2. Components and modular architecture of a React application.
    Don't get intimidated by the above line. It just means that you have to create seperate components in React and use them in various different places. If you know React you already know this, but you might not be quite familiar with it's terminology.😁 [This](https://www.simform.com/react-architecture-best-practices/) is a good place to get to know about React Architecture and it's best practices.
 
-3. Basic knowledge of IBM Carbon Design System
-   <br>
+### 3. Basic knowledge of IBM Carbon Design System
    This is not exactly necessary. If you just know how to build a component in HTML, then that's all you need. However, IBM Carbon Design System is wonderful, and is worth learning. The following resources will be useful if you want to learn about it:
 
 - https://www.carbondesignsystem.com/developing/react-tutorial/overview/
