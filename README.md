@@ -158,7 +158,7 @@ Spread the word, help your friends to get a Hacktoberfest T-Shirt too and being 
 <br>
 Good luck with your open source journey.
 
-Happy Hacking! 😁
+Happy Hacking!! 😁
 
 ## License
 
