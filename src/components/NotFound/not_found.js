@@ -8,6 +8,11 @@ const NotFound = () => {
           <html>
               <h1>404</h1>
               <h2>Page not found</h2>
+              <img
+              className="Page_not_found"
+              alt="Page not found"
+              src="https://i.imgur.com/qIufhof.png"
+              />
           </html>
         </div>
       </div>
