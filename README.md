@@ -25,11 +25,11 @@
 <p align="center"> For All Your Movie Recommendation Needs and the Movie Lovers Greed!  </p>
 <br/>
 
-<h1 align="center"> Hacktoberfest 2020 Notice </h1>
+<h1 align="center"> Hacktoberfest 2021 Notice </h1>
 
 ![image](./hf.svg)
 
-Hacktoberfest 2020 is finally here and we very much welcome your wonderful contributions! You can earn a Hacktoberfest T-Shirt as a reminder of your efforts and as a token of appreciation. Visit <a href = "https://hacktoberfest.digitalocean.com/">Hacktoberfest<a/> and check out how to contribute to open source and become an open source hero! 😁
+Hacktoberfest 2021 is finally here and we very much welcome your wonderful contributions! You can earn a Hacktoberfest T-Shirt as a reminder of your efforts and as a token of appreciation. Visit <a href = "https://hacktoberfest.digitalocean.com/">Hacktoberfest<a/> and check out how to contribute to open source and become an open source hero! 😁
 
 ## About The Project
 
