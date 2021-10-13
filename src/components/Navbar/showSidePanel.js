@@ -1,7 +1,7 @@
 const  showSidePanel=()=>
         {
             let allClasses= document.getElementsByClassName('bx--header-panel');
-            var actionButton=document.getElementById("show-side-panel");
+            let actionButton=document.getElementById("show-side-panel");
             var global_header=document.getElementById("global_header");
             for (let i = 0; i < allClasses.length; i++) { 
                 if(allClasses[i].classList.contains("bx--header-panel--expanded"))
