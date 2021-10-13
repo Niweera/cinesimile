@@ -1,6 +1,6 @@
 const  showSidePanel=()=>
         {
-            var allClasses= document.getElementsByClassName('bx--header-panel');
+            let allClasses= document.getElementsByClassName('bx--header-panel');
             var actionButton=document.getElementById("show-side-panel");
             var global_header=document.getElementById("global_header");
             for (let i = 0; i < allClasses.length; i++) { 
