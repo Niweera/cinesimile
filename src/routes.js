@@ -7,6 +7,7 @@ import { Content } from "carbon-components-react";
 import Footer from "./components/Footer";
 import ContactUs from "./components/ContactUs/contact_us";
 import NotFound from "./components/NotFound/not_found";
+import Categories from "./components/Categories/categories";
 
 const Routes = () => {
   return (
