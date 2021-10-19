@@ -6,7 +6,7 @@ export const navbarItems=[
     },
     {
         title:"News",
-        url:"#",
+        url:"news",
     },
     {
         title:"Contact Us",

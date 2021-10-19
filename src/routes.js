@@ -7,6 +7,7 @@ import { Content } from "carbon-components-react";
 import Footer from "./components/Footer";
 import ContactUs from "./components/ContactUs/contact_us";
 import NotFound from "./components/NotFound/not_found";
+import News from "./components/News/news";
 
 const Routes = () => {
   return (
@@ -18,6 +19,7 @@ const Routes = () => {
           <Switch>
             <Route exact path={"/"} render={(props) => <Home {...props} />} />
             <Route exact path={"/home"} component={Home} />
+              <Route exact path={"/news"} component={News} />
             <Route exact path={"/contact"} component={ContactUs} />
             <Route component={NotFound} />
           </Switch>
