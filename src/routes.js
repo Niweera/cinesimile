@@ -18,6 +18,7 @@ const Routes = () => {
           <Switch>
             <Route exact path={"/"} render={(props) => <Home {...props} />} />
             <Route exact path={"/home"} component={Home} />
+              <Route exact path={"/categories"} component={Categories} />
             <Route exact path={"/contact"} component={ContactUs} />
             <Route component={NotFound} />
           </Switch>

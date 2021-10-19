@@ -9,6 +9,10 @@ export const navbarItems=[
         url:"#",
     },
     {
+        title:"Categories",
+        url:"categories",
+    },
+    {
         title:"Contact Us",
         url:"#",
     },
