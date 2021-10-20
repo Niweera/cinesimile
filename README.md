@@ -30,7 +30,7 @@
 ![image](./hf.svg)
 
 Hacktoberfest 2021 is finally here and we very much welcome your wonderful contributions! You can earn a Hacktoberfest T-Shirt as a reminder of your efforts and as a token of appreciation. Visit <a href = "https://hacktoberfest.digitalocean.com/">Hacktoberfest<a/> and check out how to contribute to open source and become an open source hero! 😁
-
+Hacktoberfest is a month-long celebration of open source software run by DigitalOcean. During the month of October, they invite us to join open-source software enthusiasts, beginners, and the developer community by contributing to open-source projects.
 ## About The Project
 
 CineSimile is a platform where you can find similar movies for a given movie. Currently, we are in the phase of finding similarity between the movies. So keep in touch, and we'll let you know.
