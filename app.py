@@ -6,6 +6,8 @@ import requests
 import streamlit as st
 from streamlit_searchbox import st_searchbox
 
+st.set_page_config(page_title="CineSimile", page_icon="🎬")
+
 # Load environment variables
 load_dotenv()
 
@@ -40,7 +42,8 @@ def search_function(query):
 
 
 # Streamlit UI
-st.title("CineSimile")
+
+st.title("🎬 CineSimile")
 st.subheader("AI is here to take over the world.")
 st.subheader("In the meantime, here's a good movie to watch!")
 
