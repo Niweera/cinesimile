@@ -85,7 +85,12 @@ if selected_engine and selected_movie:
     cols = st.columns(len(similar_movies))  # Create columns
     for idx, movie in enumerate(similar_movies):
         with cols[idx]:
-            st.image(movie["poster"]["poster"])
+            st.image(
+                movie.get("poster", {}).get(
+                    "poster",
+                    "https://s.studiobinder.com/wp-content/uploads/2017/12/Movie-Poster-Template-Dark-with-Image.jpg",
+                )
+            )
             st.markdown(f"**{movie['name']} ({movie['year']})**")
 elif selected_engine and not selected_movie:
     st.error("Please enter and select a movie name from the suggestions")
