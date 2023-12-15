@@ -163,3 +163,5 @@ Happy Hacking!! 😁
 ## License
 
 Distributed under the MIT License. See [LICENSE](https://github.com/Niweera/cinesimile/blob/master/LICENSE) for more information.
+
+### Special thanks to [Dr. Adarsh Prasad Behera](https://scholar.google.com/citations?user=ce1y_FMAAAAJ&hl=en&oi=ao).
