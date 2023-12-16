@@ -15,6 +15,19 @@ load_dotenv()
 API_BASE_URL = os.getenv("FLASK_API_URL")  # Replace with your Flask API URL
 
 
+# Function to check API accessibility
+def is_api_accessible():
+    try:
+        response = requests.get(API_BASE_URL)
+        return response.status_code == 200
+    except:
+        return False
+
+
+# Check if the API is accessible
+api_accessible = is_api_accessible()
+
+
 # Function to get movie suggestions
 def get_movie_suggestions(query):
     response = requests.get(f"{API_BASE_URL}/suggest?query={query}")
@@ -46,6 +59,11 @@ def search_function(query):
 st.title("🎬 CineSimile")
 st.subheader("AI is here to take over the world.")
 st.subheader("In the meantime, here's a good movie to watch!")
+
+# Disable UI if API is not accessible
+if not api_accessible:
+    st.error("CineSimile-API is currently inaccessible. Please try again later.")
+    st.stop()
 
 # Movie name input with autocomplete suggestions
 st.write("Enter the name of a movie")
