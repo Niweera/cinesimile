@@ -27,7 +27,6 @@
 ## About The Project
 
 CineSimile is a platform where you can find similar movies for a given movie.
-Now online at [cinesimile.niweera.com](https://cinesimile.niweera.com/).
 
 ### Machine Learning
 
